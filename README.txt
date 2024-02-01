@@ -1,6 +1,6 @@
 1/31/2024
 This project is from the "The Complete 2024 Web Development Bootcamp"
-on Udemy. Currenlty learning HTML!
+on Udemy. Currently learning HTML!
 
 It's funny that this project is close to my birthday(4 days from now, actually!)
 This project was easy and took me about 10-15mins (ChatGPT for poem and a then gif search)
@@ -10,3 +10,11 @@ link. I hope that by the end of this bootcamp I can make a really cool website f
 bithday next year -- Of course it will be spongebob themed!
 
 I know this project seems silly because it's really simple, but progress is progress! :)
+
+What I learned to make this:
+Heading elements
+paraghraph elements
+Void elements
+List elements
+Anchor elements
+Image element 
